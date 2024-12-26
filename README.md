@@ -3,6 +3,11 @@
 **ChatGPT Flutter - Dragon Ball Edition** é um projeto simples que integra a poderosa API do **ChatGPT** da OpenAI com o framework **Flutter**. A aplicação oferece uma interface intuitiva para os usuários interagirem com a inteligência artificial enquanto exploram uma interface visual inspirada no mundo de **Dragon Ball**, incluindo a imagem de **Goku na Nuvem Voadora**.
 
 Através dessa aplicação, você poderá conversar com o **ChatGPT** em tempo real e se divertir enquanto aprende a integrar a API do OpenAI com o Flutter.
+# Demo
+
+
+![Screenshot_1](https://github.com/user-attachments/assets/1257d35f-1373-497f-9f0c-f729f8a3c15c)
+
 
 ---
 
