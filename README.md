@@ -30,7 +30,7 @@ Através dessa aplicação, você poderá conversar com o **ChatGPT** em tempo r
 Para rodar este projeto localmente, primeiro clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/chatgpt_flutter_dragonball.git
+git clone https://github.com/Benevanio/ChatGPT-Flutter---Dragon-Ball-Edition.git
 cd chatgpt_flutter_dragonball
 ```
 
